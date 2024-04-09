@@ -5,7 +5,7 @@
  
   O Proa foi para mim uma porta de entrada nesse mundo de desenvolvimento de Software, Espero que gostem do projeto.
 
-  Loja de Informática: [Site do Projeto](https://www.proa.org.br/)
+  Loja de Informática: [Site do Projeto](https://luizsilvaa.github.io/Loja-de-Inform-tica/)
 </h4>
 
 ## Tecnologias Utilizadas
@@ -21,7 +21,7 @@ Segunda Parte
 
 
 ## Hospedagem
-https://
+https://luizsilvaa.github.io/Loja-de-Inform-tica/
 
 ## Instituto PROA
 [Plataforma PROA](https://www.proa.org.br/)
